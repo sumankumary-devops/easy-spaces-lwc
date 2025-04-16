@@ -47,6 +47,14 @@
           "versionNumber": "57.0.0.LATEST"
         }
       ]
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "./es-space-mgmt",
+      "default": false,
+      "package": "es-space-mgmt",
+      "versionDescription": ""
     }
   ],
   "pushPackageDirectoriesSequentially": true,
@@ -61,6 +69,7 @@
     "ESObjects@57.0.0-3": "04t4W000002nizdQAA",
     "ESBaseCodeLWC@57.0.0-2": "04t4W000002niziQAA",
     "ESBaseStylesLWC@57.0.0-2": "04t4W000002niznQAA",
-    "ESSpaceMgmtLWC@57.0.0-4": "04t4W000002nizsQAA"
+    "ESSpaceMgmtLWC@57.0.0-4": "04t4W000002nizsQAA",
+    "es-space-mgmt": "0HogL00000006VFSAY"
   }
 }
