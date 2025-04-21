@@ -5,7 +5,7 @@
       "package": "ESObjects",
       "versionName": "Base Objects - Spring '23",
       "versionNumber": "57.0.0.NEXT",
-      "default": false
+      "default": true
     },
     {
       "path": "./es-base-styles",
