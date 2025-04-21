@@ -19,11 +19,12 @@
       "package": "ESBaseCodeLWC",
       "versionName": "Base Code LWC - Spring '23",
       "versionNumber": "57.0.0.NEXT",
-      "default": false,
+      "default": true,
       "dependencies": [
         {
           "package": "ESObjects",
           "versionNumber": "57.0.0.LATEST"
+          "branch": "package/es-base-objects"
         }
       ]
     },
@@ -32,7 +33,7 @@
       "package": "ESSpaceMgmtLWC",
       "versionName": "Space Management App - Spring '23",
       "versionNumber": "57.0.0.NEXT",
-      "default": true,
+      "default": false,
       "dependencies": [
         {
           "package": "ESObjects",
