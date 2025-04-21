@@ -29,7 +29,7 @@
     },
     {
       "path": "./es-space-mgmt",
-      "package": "ESSpaceMgmtLWC",
+      "package": "es-space-mgmt",
       "versionName": "Space Management App - Spring '23",
       "versionNumber": "57.0.0.NEXT",
       "default": true,
