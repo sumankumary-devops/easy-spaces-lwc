@@ -55,7 +55,7 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "path": "./es-space-mgmt",
-      "default": false,
+      "default": true,
       "package": "es-space-mgmt",
       "versionDescription": ""
     }
