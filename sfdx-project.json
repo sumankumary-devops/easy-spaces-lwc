@@ -58,6 +58,14 @@
       "default": false,
       "package": "es-space-mgmt",
       "versionDescription": ""
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "./es-space-mgmt",
+      "default": false,
+      "package": "ESspaceMgmt",
+      "versionDescription": ""
     }
   ],
   "pushPackageDirectoriesSequentially": true,
@@ -73,6 +81,7 @@
     "ESBaseCodeLWC@57.0.0-2": "04t4W000002niziQAA",
     "ESBaseStylesLWC@57.0.0-2": "04t4W000002niznQAA",
     "ESSpaceMgmtLWC@57.0.0-4": "04t4W000002nizsQAA",
-    "es-space-mgmt": "0Hofm00000000MbCAI"
+    "es-space-mgmt": "0Hofm00000000MbCAI",
+    "ESspaceMgmt": "0Hofm00000000RRCAY"
   }
 }
