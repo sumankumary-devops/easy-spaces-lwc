@@ -36,17 +36,17 @@
       "dependencies": [
         {
           "package": "ESObjects",
-          "versionNumber": "57.0.0.LATEST"
+          "versionNumber": "57.0.0.LATEST",
           "branch": "package/es-base-objects"
         },
         {
           "package": "ESBaseCodeLWC",
-          "versionNumber": "57.0.0.LATEST"
+          "versionNumber": "57.0.0.LATEST",
           "branch": "package/es-base-code"
         },
         {
           "package": "ESBaseStylesLWC",
-          "versionNumber": "57.0.0.LATEST"
+          "versionNumber": "57.0.0.LATEST",
           "branch": "package/es-base-styles"
         }
       ]
