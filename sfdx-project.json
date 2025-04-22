@@ -23,7 +23,7 @@
       "dependencies": [
         {
           "package": "ESObjects",
-          "versionNumber": "57.0.0.LATEST"
+          "versionNumber": "57.0.0.LATEST",
           "branch": "package/es-base-objects"
         }
       ]
