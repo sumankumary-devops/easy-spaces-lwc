@@ -1,6 +1,6 @@
 public class OpportunityHandler {
 public static Decimal calculateOpportunityAmount(Decimal amount) {
 
-return amount * 12;
+return amount * 24;
 }
 }
